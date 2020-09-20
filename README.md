@@ -1,5 +1,4 @@
-# Web-Scraping
-======		
+# Web-Scraping		
 Here you will find different web scraping scripts.  
 we created different scripts that will scrap different website. 
 
